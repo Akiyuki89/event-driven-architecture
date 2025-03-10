@@ -1,0 +1,8 @@
+A Event Stream Router API é uma solução centralizada para o gerenciamento, processamento e redirecionamento de eventos e dados de postback provenientes de diferentes fontes, como Keitaro e BackOffice. Ela atua como um "payload orchestrator", recebendo os dados, enriquecendo-os com informações adicionais, e direcionando-os de forma inteligente para serviços externos, como Google, Twitter, Meta e outros.
+
+A API oferece:
+
+Integração com plataformas como Twilio e RudderStack para notificações e rastreamento avançado de eventos.
+Capacidade de segmentar dados com base em fontes de tráfego, eventos e informações agnósticas para uma gestão personalizada.
+Suporte a múltiplas plataformas para análise de desempenho e otimização de campanhas.
+O objetivo principal da API é fornecer flexibilidade e escalabilidade ao lidar com grandes volumes de dados, permitindo decisões rápidas e direcionadas para cada canal de destino.
